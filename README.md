@@ -2,8 +2,4 @@
 
 ## I'm a Verified Discord Developer .
 
-</p>
-<div align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=Satuke&show_icons=true&theme=tokyonight" width = "%50" height = "150px" />
-</div>
-
+![SATUKE](https://github-readme-stats.vercel.app/api?username=savageryu&show_icons=true&theme=tokyonight)
