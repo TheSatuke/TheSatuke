@@ -2,4 +2,4 @@
 
 ## I'm a Verified Discord Developer .
 
-![SATUKE](https://github-readme-stats.vercel.app/api?username=savageryu&show_icons=true&theme=tokyonight)
+![SATUKE](https://github-readme-stats.vercel.app/api?username=satuke&show_icons=true&theme=tokyonight)
