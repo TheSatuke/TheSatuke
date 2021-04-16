@@ -1,4 +1,4 @@
-# I'm a verified **Discord Developer**
+# Doğrulanmış bir **Discord Bot Geliştiricisiyim**
 -------------------
 ## Burada birkaç gönderi yapacağım, kendi çapımda pek iyi olmasa da işinize yarayacağını umuyorum.
 -------------------
