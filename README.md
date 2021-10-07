@@ -3,7 +3,7 @@
 
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 
-<a href="https://discord.com/users/707325480378040430" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852834797176094721)](https://discord.com/users/852834797176094721)
 
 
 ### 🛠 Software Languages
