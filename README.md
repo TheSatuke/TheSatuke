@@ -1,13 +1,6 @@
 <h2 align="center">Hello, Im Satuke 👋</h2>
 
 
-![](https://komarev.com/ghpvc/?username=TheSatuke)
-
-- Selam dostlar ben satuke
-- kendi kafama göre bot editler veya yazarım tamamen keyfi.
-- yardım veya soru için `satuke champion#1080`
-
-
 ### 🛠 Software Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -18,6 +11,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+![](https://komarev.com/ghpvc/?username=TheSatuke)
+[![](https://img.shields.io/github/followers/TheSatuke?label=follow&style=social)](https://github.com/TheSatuke)&nbsp;
 
 - İnstagram: [@Satukecim](https://instagram.com/satukecim)
 - Discord [Satuke](https://discord.com/users/707325480378040430)
