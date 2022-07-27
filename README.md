@@ -2,6 +2,7 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=TheSatuke)
+![]https://img.shields.io/github/followers/TheSatuke?style=social&nbsp;
 
 ### 🛠 Software Languages
 
