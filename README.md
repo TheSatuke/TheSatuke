@@ -12,10 +12,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=1572B6)&nbsp;
 
-## 🐉 Discord Account
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707325480378040430?hideDiscrim=true)](https://discord.com/users/707325480378040430)
-
-
 ## 🍷 GitHub Stats
 <p align = 'center'>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=TheSatuke&theme=gotham&hide_border=true'>
