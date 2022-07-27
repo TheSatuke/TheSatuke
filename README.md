@@ -9,7 +9,6 @@
 
 <h3>My Personal accounts:</h3>
 <p align="left">
-<a href="https://discord.com/users/350976460313329665" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/350976460313329665?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/350976460313329665)
 </p>
