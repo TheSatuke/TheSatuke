@@ -4,7 +4,7 @@
 ### 🛠 Accounts
 
 - ![](https://komarev.com/ghpvc/?username=TheSatuke)
-- [![](https://img.shields.io/github/followers/TheSatuke?label=follow&style=social)](https://github.com/TheSatuke)&nbsp;
+- [![](https://img.shields.io/instagram/satukecim?label=follow&style=social)](https://instagram.com/satukecim)&nbsp;
 
 - İnstagram: [@Satukecim](https://instagram.com/satukecim)
 - Discord [Satuke](https://discord.com/users/707325480378040430)
