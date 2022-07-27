@@ -6,6 +6,9 @@
 ![](https://komarev.com/ghpvc/?username=TheSatuke)
 [![](https://img.shields.io/github/followers/TheSatuke?label=follow&style=social)](https://github.com/TheSatuke)&nbsp;
 
+- İnstagram: [@Satukecim](https://instagram.com/satukecim)
+- Discord [Satuke](https://discord.com/users/707325480378040430)
+
 ### 🛠 Software Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
