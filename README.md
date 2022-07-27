@@ -9,6 +9,9 @@
 ![](https://komarev.com/ghpvc/?username=TheSatuke)
 [![](https://img.shields.io/github/followers/TheSatuke?label=follow&style=social)](https://github.com/TheSatuke)&nbsp;
 
+<h2 align="center"></h2>
+</p>
+
 ### 🛠 Software Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
