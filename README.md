@@ -1,12 +1,5 @@
 <h2 align="center">Hello, Im Satuke 👋</h2>
 </p>
-<h3 align="center">🌟 Social media </h3>
-<p align='center'>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>  
-
-## 🐉 Discord Account
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707325480378040430?hideDiscrim=true)](https://discord.com/users/707325480378040430)
 
 ## 🍷 GitHub Stats
 <p align = 'center'>
