@@ -7,12 +7,6 @@
 </p>
 
 
-<h3>My Personal accounts:</h3>
-<p align="left">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/707325480378040430?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/707325480378040430)
-</p>
-
 
 ### 🛠 Software Languages
 
@@ -33,3 +27,9 @@
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&layout=compact&theme=dark&hide_border=true" />
+
+    <h3>My Personal accounts:</h3>
+<p align="left">
+[![Discord Presence](https://lanyard.cnrad.dev/api/707325480378040430?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/707325480378040430)
+</p>
+
