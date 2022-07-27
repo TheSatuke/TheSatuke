@@ -5,6 +5,7 @@
         />
     </a>
 </p>
+![](https://komarev.com/ghpvc/?username=TheSatuke)
 
 - Selam dostlar ben satuke
 - kendi kafama göre bot editler veya yazarım tamamen keyfi.
