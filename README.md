@@ -1,13 +1,7 @@
 <h2 align="center">Hello, Im Satuke 👋</h2>
 </p>
 
-### 🛠 Accounts
-
 - ![](https://komarev.com/ghpvc/?username=TheSatuke)
-- [![](https://img.shields.io/instagram/satukecim?label=follow&style=social)](https://instagram.com/satukecim)&nbsp;
-
-- İnstagram: [@Satukecim](https://instagram.com/satukecim)
-- Discord [Satuke](https://discord.com/users/707325480378040430)
 
 ### 🛠 Software Languages
 
@@ -26,3 +20,6 @@
     <img src='https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=25'/>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=25&hide_border=true'/>
 </p>
+
+- İnstagram: [@Satukecim](https://instagram.com/satukecim)
+- Discord [Satuke](https://discord.com/users/707325480378040430)
