@@ -5,6 +5,8 @@
         />
     </a>
 </p>
+## 🐉 Discord Account
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707325480378040430?hideDiscrim=true)](https://discord.com/users/707325480378040430)
 
 
 
