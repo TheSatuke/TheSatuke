@@ -8,11 +8,9 @@
 
 
 <h3>My Personal accounts:</h3>
-<p align="left">
-<a href="https://discord.com/users/707325480378040430" target"blank_"></a>
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/350976460313329665?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/350976460313329665)
+[![Discord Presence](https://lanyard.cnrad.dev/api/707325480378040430?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/707325480378040430)
 </p>
 
 
