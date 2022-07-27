@@ -6,6 +6,9 @@
     </a>
 </p>
 
+- Selam dostlar ben satuke
+- kendi kafama göre bot editler veya yazarım tamamen keyfi.
+- yardım veya soru için `satuke champion#1080`
 
 
 ### 🛠 Software Languages
