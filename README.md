@@ -13,7 +13,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=1572B6)&nbsp;
 
 ## 🐉 Discord Account
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/919474497936064532?hideDiscrim=true)](https://discord.com/users/919474497936064532)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/962813058521116692?hideDiscrim=true)](https://discord.com/users/962813058521116692)
 
 
 ## 🍷 GitHub Stats
