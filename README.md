@@ -3,6 +3,8 @@
 
 ### About Me
 
+</p>
+
 ![](https://komarev.com/ghpvc/?username=TheSatuke)
 [![](https://img.shields.io/github/followers/TheSatuke?label=follow&style=social)](https://github.com/TheSatuke)&nbsp;
 
