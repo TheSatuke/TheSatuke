@@ -3,6 +3,7 @@
 
 ### About Me
 
+<h2 align="center"></h2>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=TheSatuke)
