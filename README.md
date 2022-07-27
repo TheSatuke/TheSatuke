@@ -1,7 +1,7 @@
 <h2 align="center">Hello, Im Satuke 👋</h2>
 </p>
 
-- ![](https://komarev.com/ghpvc/?username=TheSatuke)
+![](https://komarev.com/ghpvc/?username=TheSatuke)
 
 ### 🛠 Software Languages
 
@@ -13,7 +13,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=1572B6)&nbsp;
 
 ## 🐉 Discord Account
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/962813058521116692?hideDiscrim=true)](https://discord.com/users/962813058521116692)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707325480378040430?hideDiscrim=true)](https://discord.com/users/707325480378040430)
 
 
 ## 🍷 GitHub Stats
