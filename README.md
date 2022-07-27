@@ -4,6 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=TheSatuke)
 ![GitHub followers](https://img.shields.io/github/followers/TheSatuke?style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/TheSatuke?style=social)
+
 ### 🛠 Software Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -23,5 +24,9 @@
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=omni&line_height=27&hide_border=true'/>
 </p>
 
+<h2 align="center"></h2>
+</p>
+
+### Contact
 - İnstagram: [@Satukecim](https://instagram.com/satukecim)
 - Discord [Satuke](https://discord.com/users/707325480378040430)
