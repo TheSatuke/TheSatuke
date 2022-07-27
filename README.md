@@ -1,7 +1,7 @@
 <h2 align="center">Hello, Im Satuke 👋</h2>
-![](https://komarev.com/ghpvc/?username=TheSatuke)
-
 </p>
+
+![](https://komarev.com/ghpvc/?username=TheSatuke)
 
 ### 🛠 Software Languages
 
