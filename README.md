@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=TheSatuke)
 ![GitHub followers](https://img.shields.io/github/followers/TheSatuke?style=social)
-
+![GitHub Org's stars](https://img.shields.io/github/stars/TheSatuke?style=social)
 ### 🛠 Software Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
