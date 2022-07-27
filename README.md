@@ -9,9 +9,9 @@
 
 <h3>My Personal accounts:</h3>
 <p align="left">
-<a href="https://discord.com/users/707325480378040430" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/350976460313329665" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/707325480378040430?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/707325480378040430)
+[![Discord Presence](https://lanyard.cnrad.dev/api/350976460313329665?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/350976460313329665)
 </p>
 
 
@@ -25,8 +25,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-##
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707325480378040430)](https://discord.com/users/918848681191542785)    
 
 - İnstagram: [@Satukecim](https://instagram.com/satukecim)
 - Discord [Satuke](https://discord.com/users/707325480378040430)
