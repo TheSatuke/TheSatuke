@@ -1,16 +1,8 @@
 <h2 align="center">Hello, Im Satuke 👋</h2>
 </p>
 
-### About Me
-- sat
-<h2 align="center"></h2>
-</p>
-
 ![](https://komarev.com/ghpvc/?username=TheSatuke)
 [![](https://img.shields.io/github/followers/TheSatuke?label=follow&style=social)](https://github.com/TheSatuke)&nbsp;
-
-<h2 align="center"></h2>
-</p>
 
 ### 🛠 Software Languages
 
