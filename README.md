@@ -2,7 +2,6 @@
     <a href="https://Thesatuke.github.io">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=15&width=290&lines=Created+By+Satuke+🎃"
-            alt="Satuke"
         />
     </a>
 </p>
