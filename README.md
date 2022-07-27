@@ -2,7 +2,6 @@
 </p>
 <h3 align="center">🌟 Social media </h3>
 <p align='center'>
-<a href="https://discord.gg/zN5hjyCBJR">
 <img src= "https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white"/> </a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCNNWyF0MllvAB71bzoDS_BQ">
 <img src= "https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white"/> </a>&nbsp;&nbsp;
@@ -15,7 +14,7 @@
 </p>  
 
 ## 🐉 Discord Account
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/769979665224958020?hideDiscrim=true)](https://discord.com/users/769979665224958020)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/707325480378040430?hideDiscrim=true)](https://discord.com/users/707325480378040430)
 
 ## 🍷 GitHub Stats
 <p align = 'center'>
