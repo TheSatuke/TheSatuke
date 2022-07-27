@@ -15,12 +15,12 @@
 
 ## 🍷 GitHub Stats
 <p align = 'center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=true&line_height=25'/>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=omni&line_height=28&hide_border=true'/>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=TheSatuke&theme=omni&hide_border=true'>
 </p>
 
 <p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=TheSatuke&theme=omni&hide_border=true'>
+    <img src='https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=true&line_height=27'/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=omni&line_height=27&hide_border=true'/>
 </p>
 
 - İnstagram: [@Satukecim](https://instagram.com/satukecim)
