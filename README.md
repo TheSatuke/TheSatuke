@@ -7,12 +7,14 @@
 </p>
 
 
+<h3>My Personal accounts:</h3>
+<p align="left">
+<a href="https://discord.com/users/707325480378040430" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
-### It's me, Satuke 👋
-![](https://komarev.com/ghpvc/?username=TheSatuke)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/350976460313329665?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/350976460313329665)
+</p>
 
-One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 
 ### 🛠 Software Languages
 
