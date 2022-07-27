@@ -18,6 +18,8 @@
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=TheSatuke&theme=gotham&hide_border=true'>
 </p>
 <p align = 'center'>
+![TheSatuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSatuke&theme=omni&show_icons=true)
+
     <img src='https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=25'/>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=25&hide_border=true'/>
 </p>
