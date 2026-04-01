@@ -22,22 +22,24 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=true&title_color=ffffff&icon_color=ffffff" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&show_icons=true&hide=markdown&theme=omni&hide_border=true&layout=compact&title_color=ffffff" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&show_icons=true&theme=omni&hide_border=true&layout=compact&title_color=ffffff" width="49%" />
 </p>
 
 ---
 
-### 📬 Contact Me
+### 📬 Connect With Me
 <p align="left">
   <a href="https://instagram.com/satukecim" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E0C3FC?style=flat-square&logo=instagram&logoColor=23272e" />
   </a>
   <a href="https://discord.com/users/707325480378040430" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-E0C3FC?style=flat-square&logo=discord&logoColor=23272e" />
+  </a>
+  <a href="mailto:iletisim@satuke.me" target="_blank">
+    <img src="https://img.shields.io/badge/Email-E0C3FC?style=flat-square&logo=gmail&logoColor=23272e" />
   </a>
 </p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TheSatuke/TheSatuke/main/line.gif" width="100%">
 </div>
-
