@@ -1,41 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=05122A&height=200&section=header&text=Hello,%20I'm%20Satuke%20👋&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=05122A&height=250&section=header&text=Satuke%20Develops&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Discord%20Systems%20Expert&descSize=25&descAlignY=60" width="100%" />
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=TheSatuke&color=blueviolet&style=flat-square" alt="TheSatuke" />
-    <img src="https://img.shields.io/github/followers/TheSatuke?label=Followers&style=social" />
-    <img src="https://img.shields.io/github/stars/TheSatuke?label=Stars&style=social" />
+  <br/>
+
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/TheSatuke?label=Followers&style=for-the-badge&color=5865F2&logo=github" />
+    <img src="https://img.shields.io/github/stars/TheSatuke?label=Total%20Stars&style=for-the-badge&color=FEE75C&logo=github&logoColor=black" />
+    <img src="https://komarev.com/ghpvc/?username=TheSatuke&color=eb459e&style=for-the-badge&label=Profile+Views" />
   </p>
 </div>
 
 ---
 
-### 🚀 Hakkımda
-Selam! Ben Satuke. Yazılım dünyasında kendimi geliştiriyor, botlar ve çeşitli projeler üzerinde çalışıyorum. Teknolojiyi ve kodlamayı bir yaşam tarzı olarak görüyorum. 🍷
+### ⚡ Hakkımda
+Profesyonel bir yazılım serüveninde; karmaşık problemleri basit, hızlı ve etkili kod yapılarına dönüştürmeyi hedefliyorum. Özellikle **Discord Altyapıları**, **Veri Analitiği** ve **Sistem Mimarileri** üzerine yoğunlaşmış durumdayım. 🍷
 
 ---
 
-### 🛠 Yazılım Dilleri & Teknolojiler
+### 🚀 Yetkinlikler & Teknolojiler
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,c,go,html,css,php,mysql,mongodb,discordjs,nodejs,git,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,c,go,html,css,php,mysql,postgres,mongodb,redis,docker,nodejs,discordjs,git,vscode&perline=9" />
 </p>
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 Yazılım Serüvenim (İstatistikler)
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSatuke&theme=omni&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=true&line_height=27" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&show_icons=true&hide=php,html,css,markdown&theme=omni&line_height=27&hide_border=true" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=true&title_color=5865F2&icon_color=5865F2" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&show_icons=true&theme=omni&hide_border=true&layout=compact&title_color=5865F2" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSatuke&theme=omni&hide_border=true&stroke=5865F2&ring=5865F2&fire=5865F2" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 📬 İletişim
+### 📬 Benimle İletişime Geçin
+Profilimi ziyaret ettiğiniz için teşekkürler! İş birliği veya sadece kahve içmek için aşağıdaki kanallardan ulaşabilirsiniz.
 
 <p align="left">
   <a href="https://instagram.com/satukecim" target="_blank">
@@ -44,8 +56,11 @@ Selam! Ben Satuke. Yazılım dünyasında kendimi geliştiriyor, botlar ve çeş
   <a href="https://discord.com/users/707325480378040430" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  <a href="mailto:iletisim@satuke.me" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheSatuke/TheSatuke/main/line.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=05122A&height=20&section=footer" width="100%" />
 </div>
