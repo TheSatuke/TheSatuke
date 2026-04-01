@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Satuke%20👋&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=05122A&height=200&section=header&text=Hello,%20I'm%20Satuke%20👋&fontSize=70&animation=fadeIn" width="100%" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=TheSatuke&color=blueviolet&style=flat-square" alt="TheSatuke" />
@@ -15,10 +15,9 @@ Selam! Ben Satuke. Yazılım dünyasında kendimi geliştiriyor, botlar ve çeş
 
 ---
 
-### 🛠 Kullanabildiğim Teknolojiler
-
+### 🛠 Yazılım Dilleri & Teknolojiler
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,c,html,css,php,mysql,mongodb,discordjs,nodejs,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,c,go,html,css,php,mysql,mongodb,discordjs,nodejs,git,vscode&perline=7" />
 </p>
 
 ---
@@ -26,17 +25,17 @@ Selam! Ben Satuke. Yazılım dünyasında kendimi geliştiriyor, botlar ve çeş
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSatuke&theme=omni&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSatuke&theme=omni&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=true&line_height=27" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&show_icons=true&hide=php,html,css,markdown&theme=omni&line_height=27&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=true&line_height=27" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&show_icons=true&hide=php,html,css,markdown&theme=omni&line_height=27&hide_border=true" />
 </p>
 
 ---
 
-### 📬 Bana Ulaşın
+### 📬 İletişim
 
 <p align="left">
   <a href="https://instagram.com/satukecim" target="_blank">
