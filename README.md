@@ -1,32 +1,52 @@
-<h2 align="center">Hello, Im Satuke 👋</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Satuke%20👋&fontSize=70&animation=fadeIn" />
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=TheSatuke&color=blueviolet&style=flat-square" alt="TheSatuke" />
+    <img src="https://img.shields.io/github/followers/TheSatuke?label=Followers&style=social" />
+    <img src="https://img.shields.io/github/stars/TheSatuke?label=Stars&style=social" />
+  </p>
+</div>
+
+---
+
+### 🚀 Hakkımda
+Selam! Ben Satuke. Yazılım dünyasında kendimi geliştiriyor, botlar ve çeşitli projeler üzerinde çalışıyorum. Teknolojiyi ve kodlamayı bir yaşam tarzı olarak görüyorum. 🍷
+
+---
+
+### 🛠 Kullanabildiğim Teknolojiler
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,c,html,css,php,mysql,mongodb,discordjs,nodejs,git,vscode" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=TheSatuke)
-![GitHub followers](https://img.shields.io/github/followers/TheSatuke?style=social)
-![GitHub Org's stars](https://img.shields.io/github/stars/TheSatuke?style=social)
+---
 
-### 🛠 Software Languages
+### 📊 GitHub İstatistiklerim
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=1572B6)&nbsp;
-
-## 🍷 GitHub Stats
-<p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=TheSatuke&theme=omni&hide_border=true'>
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSatuke&theme=omni&hide_border=true" />
 </p>
 
-<p align = 'center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=true&line_height=27'/>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=omni&line_height=27&hide_border=true'/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=true&line_height=27" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&show_icons=true&hide=php,html,css,markdown&theme=omni&line_height=27&hide_border=true" />
 </p>
 
-<h2 align="center"></h2>
+---
+
+### 📬 Bana Ulaşın
+
+<p align="left">
+  <a href="https://instagram.com/satukecim" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/707325480378040430" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
-### Contact
-- İnstagram: [@Satukecim](https://instagram.com/satukecim)
-- Discord [Satuke](https://discord.com/users/707325480378040430)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheSatuke/TheSatuke/main/line.gif" width="100%">
+</div>
