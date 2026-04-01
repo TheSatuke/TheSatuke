@@ -2,9 +2,9 @@
   <h2 align="center">Hello, I'm Satuke 👋</h2>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=TheSatuke&color=05122A&style=flat-square&label=PROFILE+VIEWS" />
-    <img src="https://img.shields.io/github/followers/TheSatuke?style=for-the-badge&color=05122A&logo=github" />
-    <img src="https://img.shields.io/github/stars/TheSatuke?style=for-the-badge&color=05122A&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=sxtuke&color=05122A&style=flat-square&label=PROFILE+VIEWS" />
+    <img src="https://img.shields.io/github/followers/sxtuke?style=for-the-badge&color=05122A&logo=github" />
+    <img src="https://img.shields.io/github/stars/sxtuke?style=for-the-badge&color=05122A&logo=github" />
   </p>
 </div>
 
