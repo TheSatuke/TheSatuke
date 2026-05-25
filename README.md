@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=5865F2&icon_color=5865F2&bg_color=05122A" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sxtuke&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=5865F2&icon_color=5865F2&bg_color=05122A" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxtuke&show_icons=true&hide=markdown&theme=tokyonight&hide_border=true&layout=compact&title_color=5865F2&bg_color=05122A" width="49%" />
 </p>
 
