@@ -26,14 +26,11 @@
 
 ### 📬 Connect With Me
 <p align="left">
-  <a href="https://instagram.com/satukecim" target="_blank">
+  <a href="https://instagram.com/sxtuke" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-05122A?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.com/users/707325480378040430" target="_blank">
     <img src="https://img.shields.io/badge/Discord-05122A?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:iletisim@satuke.me" target="_blank">
-    <img src="https://img.shields.io/badge/Email-05122A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
