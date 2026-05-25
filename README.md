@@ -1,9 +1,9 @@
 <div align="center">
   <h2>Hello, I'm Satuke 👋</h2>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=TheSatuke&color=5865F2&style=flat-square&label=PROFILE+VIEWS" />
-    <img src="https://img.shields.io/github/followers/TheSatuke?style=flat-square&color=5865F2&logo=github" />
-    <img src="https://img.shields.io/github/stars/TheSatuke?style=flat-square&color=5865F2&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=sxtuke&color=5865F2&style=flat-square&label=PROFILE+VIEWS" />
+    <img src="https://img.shields.io/github/followers/sxtuke?style=flat-square&color=5865F2&logo=github" />
+    <img src="https://img.shields.io/github/stars/sxtuke?style=flat-square&color=5865F2&logo=github" />
   </p>
 </div>
 
@@ -34,5 +34,5 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheSatuke/TheSatuke/main/line.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/sxtuke/sxtuke/main/line.gif" width="100%" />
 </div>
