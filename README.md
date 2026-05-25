@@ -2,8 +2,8 @@
   <h2>Hello, I'm Satuke 👋</h2>
   <p>
     <img src="https://komarev.com/ghpvc/?username=TheSatuke&color=5865F2&style=flat-square&label=PROFILE+VIEWS" />
-    <img src="https://img.shields.io/github/followers/sxtuke?style=flat-square&color=5865F2&logo=github" />
-    <img src="https://img.shields.io/github/stars/sxtuke?style=flat-square&color=5865F2&logo=github" />
+    <img src="https://img.shields.io/github/followers/TheSatuke?style=flat-square&color=5865F2&logo=github" />
+    <img src="https://img.shields.io/github/stars/TheSatuke?style=flat-square&color=5865F2&logo=github" />
   </p>
 </div>
 
@@ -16,10 +16,9 @@
 
 ---
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=5865F2&icon_color=5865F2&bg_color=05122A" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&show_icons=true&hide=markdown&theme=tokyonight&hide_border=true&layout=compact&title_color=5865F2&bg_color=05122A" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxtuke&show_icons=true&hide=markdown&theme=tokyonight&hide_border=true&layout=compact&title_color=5865F2&bg_color=05122A" width="49%" />
 </p>
 
 ---
