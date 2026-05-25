@@ -16,10 +16,6 @@
 
 ---
 
-### 📊 Engineering Metrics
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSatuke&theme=tokyonight&hide_border=true&stroke=5865F2&ring=5865F2&fire=5865F2&sideLabels=5865F2" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=5865F2&icon_color=5865F2&bg_color=05122A" width="49%" />
