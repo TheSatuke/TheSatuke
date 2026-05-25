@@ -1,10 +1,9 @@
 <div align="center">
-  <h2 align="center">Hello, I'm Satuke 👋</h2>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sxtuke&color=05122A&style=flat-square&label=PROFILE+VIEWS" />
-    <img src="https://img.shields.io/github/followers/sxtuke?style=for-the-badge&color=05122A&logo=github" />
-    <img src="https://img.shields.io/github/stars/sxtuke?style=for-the-badge&color=05122A&logo=github" />
+  <h2>Hello, I'm Satuke 👋</h2>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=TheSatuke&color=5865F2&style=flat-square&label=PROFILE+VIEWS" />
+    <img src="https://img.shields.io/github/followers/TheSatuke?style=flat-square&color=5865F2&logo=github" />
+    <img src="https://img.shields.io/github/stars/TheSatuke?style=flat-square&color=5865F2&logo=github" />
   </p>
 </div>
 
@@ -19,12 +18,12 @@
 
 ### 📊 Engineering Metrics
 <p align="center">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSatuke&theme=tokyonight&hide_border=true&stroke=5865F2&ring=5865F2&fire=5865F2&sideLabels=5865F2">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSatuke&theme=tokyonight&hide_border=true&stroke=5865F2&ring=5865F2&fire=5865F2&sideLabels=5865F2" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=5865F2&icon_color=5865F2&bg_color=05122A" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&show_icons=true&hide=markdown&theme=tokyonight&hide_border=true&layout=compact&title_color=5865F2&bg_color=05122A" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheSatuke&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=5865F2&icon_color=5865F2&bg_color=05122A" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSatuke&show_icons=true&hide=markdown&theme=tokyonight&hide_border=true&layout=compact&title_color=5865F2&bg_color=05122A" width="49%" />
 </p>
 
 ---
@@ -43,5 +42,5 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheSatuke/TheSatuke/main/line.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/TheSatuke/TheSatuke/main/line.gif" width="100%" />
 </div>
