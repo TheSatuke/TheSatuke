@@ -9,6 +9,18 @@
 <br/>
 
 <div align="center">
+  <a href="https://github.com/sxtuke?tab=followers">
+    <img src="https://img.shields.io/github/followers/sxtuke?style=for-the-badge&color=2EA043&logo=github" alt="Followers" />
+  </a>
+  <a href="https://github.com/sxtuke?tab=repositories">
+    <img src="https://img.shields.io/github/stars/sxtuke?style=for-the-badge&color=2EA043&logo=github" alt="Stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sxtuke&style=for-the-badge&color=2EA043&label=Views" alt="Views" />
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/sxtuke">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -18,8 +30,6 @@
 </div>
 
 ---
-
-<h3 align="center">🛠️ Tech Stack</h3>
 
 <br/>
 
@@ -31,8 +41,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Telemetry</h3>
-
 <br/>
 
 <div align="center">
@@ -42,6 +50,12 @@
   <a href="https://github.com/sxtuke">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxtuke&layout=compact&theme=tokyonight&hide_border=true&title_color=2EA043" height="195" alt="Top Languages" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxtuke&theme=tokyonight&hide_border=true&side_chart=true" alt="GitHub Streak" />
 </div>
 
 <br/>
