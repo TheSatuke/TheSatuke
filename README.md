@@ -23,9 +23,9 @@
 
 <div align="center">
   <a href="https://github.com/sxtuke">
-    <img src="https://github-readme-stats.vercel.app/api?username=sxtuke&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sxtuke&show_icons=true&hide_border=true&theme=dark" height="165" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/sxtuke">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sxtuke&layout=compact&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" height="165" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxtuke&layout=compact&hide_border=true&theme=dark" height="165" alt="Top Languages" />
   </a>
 </div>
