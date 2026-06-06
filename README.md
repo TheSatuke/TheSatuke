@@ -4,18 +4,12 @@
 
 <div align="center">
   <a href="https://github.com/sxtuke?tab=followers">
-    <img src="https://img.shields.io/github/followers/sxtuke?style=for-the-badge&color=007BFF&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/sxtuke?style=flat-square&color=38BDF8&logo=github&labelColor=1e293b" alt="Followers" />
   </a>
   <a href="https://github.com/sxtuke?tab=repositories">
-    <img src="https://img.shields.io/github/stars/sxtuke?style=for-the-badge&color=007BFF&logo=github" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/sxtuke?style=flat-square&color=38BDF8&logo=github&labelColor=1e293b" alt="Stars" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sxtuke&style=for-the-badge&color=007BFF&label=Views" alt="Views" />
-  <a href="https://www.linkedin.com/in/sxtuke">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sxtuke@outlook.com">
-    <img src="https://img.shields.io/badge/Email-007BFF?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sxtuke&style=flat-square&color=38BDF8&labelColor=1e293b&label=Views" alt="Views" />
 </div>
 
 <br/>
@@ -29,9 +23,9 @@
 
 <div align="center">
   <a href="https://github.com/sxtuke">
-    <img src="https://github-readme-stats.vercel.app/api?username=sxtuke&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38BDF8&icon_color=38BDF8" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sxtuke&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" height="165" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/sxtuke">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxtuke&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" height="165" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sxtuke&layout=compact&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" height="165" alt="Top Languages" />
   </a>
 </div>
