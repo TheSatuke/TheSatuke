@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00B4DB,0083B0&height=200&section=header&text=sxtuke&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-stack+Web3+Developer;Architecting+Decentralized+Systems;Forging+Smart+Contracts;Taming+High-Performance+Backends" alt="Typing SVG" />
 </div>
 
@@ -86,8 +82,4 @@
   <a href="https://github.com/sxtuke">
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sxtuke&theme=github-dark&hide_border=true&color=38BDF8&line=38BDF8&point=ffffff" alt="Activity Graph" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00B4DB,0083B0&height=100&section=footer" />
 </div>
